@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E158EEDB-B1D9-4564-96C1-9CABEADA594D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FrameViewer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10178317-029E-49CC-9F65-1B22AEE39947</key>
+		<string>ssh://github.com/Caltoopia/contributions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FrameViewer/FrameViewer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10178317-029E-49CC-9F65-1B22AEE39947</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Caltoopia/contributions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10178317-029E-49CC-9F65-1B22AEE39947</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10178317-029E-49CC-9F65-1B22AEE39947</string>
+			<key>IDESourceControlWCCName</key>
+			<string>contributions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
